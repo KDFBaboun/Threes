@@ -1,0 +1,1 @@
+{"plateau": {"n": 4, "nombre_cases_libres": 14, "tiles": [0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}, "next-tile": {"mode": "init", "check": true, "0": {"val": 1, "lig": 1, "col": 3}, "1": {"val": 2, "lig": 1, "col": 1}}, "score": 3}
